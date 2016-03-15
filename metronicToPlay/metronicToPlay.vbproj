@@ -5991,25 +5991,6 @@
     <Content Include="assets\layouts\layout7\img\Thumbs.db" />
     <Content Include="assets\pages\media\blog\Thumbs.db" />
     <Content Include="assets\pages\media\pages\Thumbs.db" />
-    <Content Include="demo\city_names.json" />
-    <Content Include="demo\ecommerce_orders.php" />
-    <Content Include="demo\ecommerce_order_credit_memos.php" />
-    <Content Include="demo\ecommerce_order_history.php" />
-    <Content Include="demo\ecommerce_order_invoices.php" />
-    <Content Include="demo\ecommerce_order_shipment.php" />
-    <Content Include="demo\ecommerce_products.php" />
-    <Content Include="demo\ecommerce_product_history.php" />
-    <Content Include="demo\ecommerce_product_reviews.php" />
-    <Content Include="demo\idletimeout_keepalive.php" />
-    <Content Include="demo\jstree_ajax_data.php" />
-    <Content Include="demo\table_ajax.php" />
-    <Content Include="demo\table_tree.php" />
-    <Content Include="demo\timeout-keep-alive.php" />
-    <Content Include="demo\typeahead_countries.json" />
-    <Content Include="demo\typeahead_custom.php" />
-    <Content Include="demo\typeahead_nba.json" />
-    <Content Include="demo\typeahead_nhl.json" />
-    <Content Include="demo\username_checker.php" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
