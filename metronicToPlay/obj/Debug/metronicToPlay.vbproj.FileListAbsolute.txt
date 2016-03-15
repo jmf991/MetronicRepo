@@ -1,0 +1,9 @@
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\bin\metronicToPlay.dll.config
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\bin\metronicToPlay.dll
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\bin\metronicToPlay.pdb
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\bin\metronicToPlay.xml
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\obj\Debug\metronicToPlay.Resources.resources
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\obj\Debug\metronicToPlay.vbproj.GenerateResource.Cache
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\obj\Debug\metronicToPlay.dll
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\obj\Debug\metronicToPlay.xml
+E:\source\Projects\Metronics\metronicToPlay\metronicToPlay\obj\Debug\metronicToPlay.pdb
